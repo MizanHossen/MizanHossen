@@ -145,6 +145,7 @@ A modern platform for browsing, renting, and managing car bookings.
 
 ### 6. **TechTrioz Attendance App**
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.techtrioz.timetrack) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://testflight.apple.com/join/8pBA7Q2r)
+
 Employee attendance, leave management, admin controls & push notifications.
 
 ---
