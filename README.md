@@ -95,17 +95,32 @@ A complete UK travel & tour booking platform with itinerary management.
 ---
 
 ### 4. **eCourier Suite – Merchant | Agent | Branch | P2P Apps**
-[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store)
+**A nationwide logistics app ecosystem with 4 specialized applications:**
 
-A nationwide logistics app ecosystem.
+📱 eCourier P2P App
+
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.p2p)
+
+🏪 eCourier Merchant App
+
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.merchant)
+
+👨‍💼 eCourier Agent App
+
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.agent)
+
+🏢 eCourier Branch App
+
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.branch)
 
 **Tech:** Flutter, REST API, Firebase, Figma
 
 **Key Achievements:**
-- Designed QR-based processing system
-- Improved UI/UX for high engagement
-- Real-time parcel tracking
-- REST API chaining for smooth performance
+
+Designed QR-based processing system
+Improved UI/UX for high engagement
+Real-time parcel tracking
+REST API chaining for smooth performance
 
 ---
 
@@ -117,6 +132,7 @@ A modern platform for browsing, renting, and managing car bookings.
 ---
 
 ### 6. **TechTrioz Attendance App**
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.techtrioz.timetrack) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://testflight.apple.com/join/8pBA7Q2r)
 Employee attendance, leave management, admin controls & push notifications.
 
 ---
@@ -130,12 +146,10 @@ Offline-first survey app with geo-tagging and photo uploads.
 ---
 
 ### 8. **Zoye Travel & Zoye Vendor Apps**
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.zoeytravel.zoey)
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.zoeytravel.zoey_vendor)
+
 Travel and vendor management apps with booking, payments, and push notifications.
-
----
-
-### 9. **Troubleshoot – Household Services App**
-150+ professional services, live booking, tracking & vendor assignment.
 
 ---
 
@@ -172,9 +186,8 @@ Munshiganj Polytechnic Institute — *CGPA: 3.70*
 
 📞 **Phone:** +8801689517629  
 📧 **Email:** md.mizanhossan9990@gmail.com  
-🔗 **LinkedIn:** [Add your LinkedIn URL]  
-🖥️ **GitHub:** [Add your GitHub URL]  
-🌐 **Portfolio:** [Add your Portfolio URL]
+🔗 **LinkedIn:** [https://www.linkedin.com/in/md-mizan-hossen-470205201/]  
+🌐 **Portfolio:** [https://mizan.flutterdeveloper.xyz/]
 
 ---
 
