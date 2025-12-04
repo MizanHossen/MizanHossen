@@ -174,20 +174,12 @@ Munshiganj Polytechnic Institute — *CGPA: 3.70*
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 💬 Let's Connect!
 
 📞 **Phone:** +8801689517629  
 📧 **Email:** md.mizanhossan9990@gmail.com  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/md-mizan-hossen-470205201/]  
-🌐 **Portfolio:** [https://mizan.flutterdeveloper.xyz/]
+🔗 **LinkedIn:** [MD. Mizan Hossen.](https://www.linkedin.com/in/md-mizan-hossen-470205201/)  
+🌐 **Portfolio:** *(https://mizan.flutterdeveloper.xyz/)*
 
 ---
 
