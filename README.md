@@ -21,12 +21,26 @@ I specialize in **clean architecture**, **API integrations**, **Firebase ecosyst
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge)
 
-**Key Technologies:**
-- Flutter (GetX, Provider)
-- Firebase Suite (Auth, Firestore, Storage, Messaging)
-- REST API Integration
-- Google SDK
-- Payment Gateways Integration
+### Key Technologies
+
+- **Flutter & Dart**  
+  Clean Architecture, GetX, Provider, Flutter Flavors, Multi-tenant Architecture
+
+- **Firebase Ecosystem**  
+  Authentication, Firestore, Cloud Storage, Cloud Messaging (FCM), App Check, Crashlytics
+
+- **API & Backend Integration**  
+  REST API design & integration, API chaining, real-time updates, performance optimization
+
+- **Google Services**  
+  Google Maps SDK, Location Services, Google Sign-In
+
+- **Payments & Transactions**  
+  Payment Gateway Integration (SSLCommerz, Stripe, bKash, Nagad)
+
+- **App Deployment**  
+  Play Store & App Store publishing, versioning, app signing, release management, basic CI/CD
+
 
 ### Architectures
 - Clean Architecture
@@ -41,12 +55,14 @@ I specialize in **clean architecture**, **API integrations**, **Firebase ecosyst
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Other Skills
-- State Management (GetX, Provider)
-- Offline-first Architecture
+- Offline Architecture
+- Clean Architecture Implementation
 - UI/UX Design Implementation
-- Modular Codebase Design
 - Multi-tenant System Development
 - API Integration & Optimization
+- Play Store App Publishing
+- App Store App Publishing
+- Deployment & Release Management
 - Basic CI/CD
 
 ---
@@ -95,34 +111,30 @@ A complete UK travel & tour booking platform with itinerary management.
 ---
 
 ### 4. **eCourier Suite – Merchant | Agent | Branch | P2P Apps**
-**A nationwide logistics app ecosystem with 4 specialized applications:**
+A nationwide logistics ecosystem consisting of four specialized Flutter applications:
 
-📱 eCourier P2P App
+- **📱 P2P App**  
+  [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.p2p)
 
-[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.p2p)
+- **🏪 Merchant App**  
+  [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.merchant)
 
-🏪 eCourier Merchant App
+- **👨‍💼 Agent App**  
+  [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.agent)
 
-[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.merchant)
+- **🏢 Branch App**  
+  [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.branch)
 
-👨‍💼 eCourier Agent App
+**Tech:** Flutter, REST API, Firebase, Figma  
 
-[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.agent)
-
-🏢 eCourier Branch App
-
-[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ecourier.branch)
-
-**Tech:** Flutter, REST API, Firebase, Figma
-
-**Key Achievements:**
-
-Designed QR-based processing system
-Improved UI/UX for high engagement
-Real-time parcel tracking
-REST API chaining for smooth performance
+**Key Contributions:**  
+- Implemented QR-based logistics processing  
+- Upgraded UI/UX for improved usability  
+- Added real-time parcel tracking  
+- Optimized workflows using REST API chaining
 
 ---
+
 
 ### 5. **SoftCar – Online Car Rental App**
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com)
