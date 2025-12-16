@@ -82,7 +82,7 @@ Leading development of a scalable SaaS ecosystem generating multiple branded app
 ## 📌 Featured Projects
 
 ### 1. **F1T Cloud – Multi-Tenant Gym SaaS Platform**
-[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.f1tCloud) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://testflight.apple.com/join/4WzvVc7b)
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.f1tCloud) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/gb/app/f1tcloud/id6755952513)
 
 A scalable platform for memberships, trainers, class schedules, subscriptions & billing.
 
@@ -92,7 +92,7 @@ A scalable platform for memberships, trainers, class schedules, subscriptions & 
 ---
 
 ### 2. **F1TCloud Hub – Trainer/Admin Dashboard**
-[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.fit_cloud_ttz) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://testflight.apple.com/join/dPvEsuC3)
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.fit_cloud_ttz) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/us/app/f1tcloud-hub/id6755955614)
 
 A centralized dashboard for gym trainers and administrators.
 
