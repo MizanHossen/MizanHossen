@@ -67,15 +67,21 @@ I specialize in **clean architecture**, **API integrations**, **Firebase ecosyst
 
 ---
 
-## 📌 Currently Working On
+### 🔹 Shukran – D2C Mobile Commerce App 🚀 (Live)
 
-### **F1T Cloud – Multi-Tenant Gym SaaS Platform**
-Leading development of a scalable SaaS ecosystem generating multiple branded apps from a single codebase using:
-- Flutter Flavors
+**Shukran** is a production-ready D2C mobile application built with Flutter, focusing on performance, scalability, and clean code practices. The app is live on both Android and iOS platforms.
+
+**Core Technologies & Features:**
 - Clean Architecture
-- Modular Codebase
-- Real-time Communication
-- Subscription & Class Booking System
+- REST API Integration
+- Firebase Cloud Messaging (FCM)
+- Deep Linking
+- Scalable & Maintainable Codebase
+- Secure Authentication & Session Handling
+- Real-time Notifications
+- Production-level App Deployment
+
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.shukran.d2c.mobileapp) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/us/app/shukran-store/id6757468646)
 
 ---
 
