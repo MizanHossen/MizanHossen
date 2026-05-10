@@ -206,6 +206,6 @@ Munshiganj Polytechnic Institute — *CGPA: 3.70*
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+</p> -->
