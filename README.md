@@ -350,7 +350,33 @@ A nnationwide logistics ecosystem consisting of four Flutter applications design
 
 ---
 
-### 7. **Green Chula – Rural Cookstove Survey App**
+### 7. **Stallo – Food Delivery Mobile App**
+
+**Stallo** is a food delivery application that enables users to discover restaurants, order food, and track deliveries through a seamless mobile experience. The app offers a smooth ordering process with real-time updates, secure payments, and an intuitive interface for everyday food delivery.
+
+### ✨ Key Features
+
+- Restaurant & Food Browsing
+- Cart & Checkout Management
+- Real-time Order Tracking
+- Multiple Delivery Addresses
+- Secure Payment Integration
+- Order History & Reordering
+- User Profile Management
+- Push Notifications
+
+**Tech Stack:** Flutter • GetX • Clean Architecture • REST API • Firebase
+
+### 🚀 My Contribution
+
+- Developed core modules including restaurant listing, cart, checkout, and order management.
+- Implemented delivery address management and order tracking features.
+- Integrated REST APIs, secure payment flow, and push notifications.
+- Contributed to UI implementation, performance optimization, and production support.
+
+---
+
+### 8. **Green Chula – Rural Cookstove Survey App**
 
 **Green Chula** is a field survey application developed to support Bangladesh's clean cookstove initiative by enabling survey teams to collect household data efficiently, even in remote areas without internet access. The app follows an offline-first approach, allowing seamless data collection, location tracking, image capture, and automatic synchronization when connectivity becomes available.
 
@@ -374,7 +400,7 @@ A nnationwide logistics ecosystem consisting of four Flutter applications design
 
 ---
 
-### 8. **Zoye Travel & Zoye Vendor Apps**
+### 9. **Zoye Travel & Zoye Vendor Apps**
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.zoeytravel.zoey)
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.zoeytravel.zoey_vendor)
 
@@ -401,7 +427,7 @@ A nnationwide logistics ecosystem consisting of four Flutter applications design
 
 ---
 
-### 8. ✍️ SignifyDocs – Digital Signature & Document Signing App
+### 10. **SignifyDocs – Digital Signature & Document Signing App**
 
 **SignifyDocs** is a secure and user-friendly digital signature application that enables users to upload, sign, save, and share documents directly from their mobile devices. Designed for both personal and professional use, the app simplifies document signing with a seamless digital workflow while reducing the need for paper-based processes.
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.signify.docs)
