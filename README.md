@@ -67,6 +67,106 @@ I specialize in **clean architecture**, **API integrations**, **Firebase ecosyst
 
 ---
 
+
+# 💼 Core Skills
+
+- 📱 Flutter & Dart
+- 🏛️ Clean Architecture
+- 🗂️ Offline Architecture
+- 🎨 UI/UX Implementation
+- 🏢 Multi-tenant System Development
+- 🔗 REST API Integration & Optimization
+- 🔥 Firebase Cloud Messaging (FCM)
+- 🔐 Authentication & Session Management
+- 📍 Background Location Services
+- 🔔 Push Notifications
+- 🌐 Flutter Web
+- ⚙️ Basic CI/CD
+- 🚀 Google Play Store Publishing
+- 🍎 Apple App Store Publishing
+- 📦 Deployment & Release Management
+
+---
+
+# 🚧 Current Projects
+
+## 📍 Robi GeoConnect – Enterprise Field Workforce Management System
+
+Developed for **Robi Axiata Limited**, Robi GeoConnect is an enterprise-grade field workforce management application that streamlines employee attendance, field operations, and real-time workforce monitoring.
+
+### Key Features
+
+- Real-time GPS-based Punch In / Punch Out
+- Continuous Background Location Tracking
+- Live Employee Location Monitoring
+- Field Visit & Task Assignment
+- Visit History
+- Issue Reporting
+- Automatic Punch-Out Detection
+- Firebase Push Notifications
+- Secure Authentication
+- Production Deployment
+
+### Tech Stack
+
+- Flutter
+- Dart
+- Provider
+- Clean Architecture
+- REST API
+- Firebase Cloud Messaging
+- Background Location Services
+
+### My Contribution
+
+- Led the project from planning to production deployment.
+- Designed scalable Clean Architecture.
+- Implemented background GPS tracking.
+- Developed attendance and workforce management modules.
+- Integrated REST APIs and Firebase services.
+- Optimized app performance and production stability.
+
+---
+
+## 🏗️ Crown Cement – Digital Customer Engagement Platform
+
+A customer engagement platform built for **Crown Cement** that enables customers to explore company information, browse products, learn construction best practices, participate in campaigns, and connect with the brand through digital experiences.
+
+### Key Features
+
+- Company Information
+- Product Catalogue
+- Construction Guidelines
+- Interactive Q&A
+- Campaign Registration
+- Meet & Greet Events
+- Customer Engagement Activities
+- Push Notifications
+- Secure Authentication
+- Android & iOS Deployment
+
+### Tech Stack
+
+- Flutter
+- Dart
+- Clean Architecture
+- REST API
+- Firebase Cloud Messaging
+
+### My Contribution
+
+- Led complete Flutter application development.
+- Implemented modular Clean Architecture.
+- Integrated backend APIs.
+- Developed campaign and registration modules.
+- Published production-ready releases.
+
+
+
+---
+
+## 📌 Featured Projects
+
 ### 🔹 Shukran – D2C Mobile Commerce App 🚀 (Live)
 
 **Shukran** is a production-ready D2C mobile application built with Flutter, focusing on performance, scalability, and clean code practices. The app is live on both Android and iOS platforms.
@@ -82,10 +182,6 @@ I specialize in **clean architecture**, **API integrations**, **Firebase ecosyst
 - Production-level App Deployment
 
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.shukran.d2c.mobileapp) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/us/app/shukran-store/id6757468646)
-
----
-
-## 📌 Featured Projects
 
 ### 1. **F1T Cloud – Multi-Tenant Gym SaaS Platform**
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.f1tCloud) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/gb/app/f1tcloud/id6755952513)
