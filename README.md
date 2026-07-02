@@ -306,22 +306,71 @@ A nnationwide logistics ecosystem consisting of four Flutter applications design
 ### 5. **SoftCar – Online Car Rental App**
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com)
 
-A modern platform for browsing, renting, and managing car bookings.
+**SoftCar** is a modern car rental platform that enables users to search, book, and manage rental vehicles through a seamless mobile experience. The application offers a wide selection of vehicles across multiple cities, along with secure payments, real-time availability, and an intuitive booking process.
+
+### ✨ Key Features
+
+- Real-time Vehicle Availability
+- Booking Calendar with Date Conflict Detection
+- Secure Stripe Payment Integration
+- Damage Reporting with Camera Integration
+- Booking History & Rental Management
+- Smooth Animations & Responsive UI
+
+**Tech Stack:** Flutter • Dart • Clean Architecture • REST API • Stripe • Firebase
+
+### 🚀 My Contribution
+
+- Developed core car rental and booking management modules.
+- Implemented real-time vehicle availability and booking validation.
+- Integrated Stripe payment gateway for secure international transactions.
 
 ---
 
 ### 6. **TechTrioz Attendance App**
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.techtrioz.timetrack) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://testflight.apple.com/join/8pBA7Q2r)
 
-Employee attendance, leave management, admin controls & push notifications.
+**TechTrioz Attendance App** is a role-based workforce management application developed to simplify employee attendance, leave management, and daily office operations. The platform enables organizations to monitor attendance, manage employee activities, and streamline administrative processes through a secure and user-friendly mobile application.
+
+### ✨ Key Features
+
+- GPS-Based Attendance 
+- Leave & Shift Management
+- Work From Home Attendance
+- Attendance Reports & Analytics
+- Push Notifications
+- Offline Attendance with Auto Sync
+- Admin role also for manage
+
+**Tech Stack:** Flutter • Dart • Providerr • Firebase FCM • Firebase Firestore
+
+### 🚀 My Contribution
+
+- Developed core attendance and employee management full app modules.
 
 ---
 
 ### 7. **Green Chula – Rural Cookstove Survey App**
-Offline-first survey app with geo-tagging and photo uploads.
 
-**Tech:** Flutter, REST API, Firebase  
-**Features:** Offline mode, synced uploads, location-based forms
+**Green Chula** is a field survey application developed to support Bangladesh's clean cookstove initiative by enabling survey teams to collect household data efficiently, even in remote areas without internet access. The app follows an offline-first approach, allowing seamless data collection, location tracking, image capture, and automatic synchronization when connectivity becomes available.
+
+### ✨ Key Features
+
+- Offline Survey & Data Collection
+- Household & Cookstove Assessment
+- Image Capture & Compression
+- Multi-language Support (Bangla & English)
+- Survey Progress & Offline Saving
+- Reports & Analytics Dashboard
+
+**Tech Stack:** Flutter • Dart • GetX • Hive • SQLite • REST API • Firebase • GPS
+
+### 🚀 My Contribution
+
+- Developed offline-first survey modules with local data persistence.
+- Built dynamic survey forms with validation and multilingual support.
+- Integrated REST APIs for data synchronization.
+- Contributed to deployment, maintenance, and performance optimization.
 
 ---
 
@@ -329,18 +378,26 @@ Offline-first survey app with geo-tagging and photo uploads.
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.zoeytravel.zoey)
 [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.zoeytravel.zoey_vendor)
 
-Travel and vendor management apps with booking, payments, and push notifications.
+**Zoey Travel Suite** is a complete travel management ecosystem consisting of two Flutter applications: a customer app for booking flights, hotels, and tour packages, and a vendor app for managing travel services, bookings, and business operations. The platform delivers a seamless experience for both travelers and service providers through real-time updates, secure payments, and efficient booking management.
 
----
+### ✨ Key Features
 
-## 🎯 Key Achievements
+- Hotel & Tour Package Booking
+- Advanced Search & Booking Management
+- Secure Online Payments
+- Vendor Booking & Service Management
+- Payment Tracking & Customer Reviews
+- Real-time Push Notifications
 
-✅ Built and led development of **multi-tenant SaaS platforms** (F1T Cloud)  
-✅ Designed **QR-based logistics system** for eCourier  
-✅ Created **REST API chaining** for smoother UX  
-✅ Developed **offline-first real-world field apps**  
-✅ Delivered **clean, scalable, maintainable codebases**  
-✅ Improved **UI/UX** across multiple live apps
+**Tech Stack:** Flutter • Dart • Provider • Clean Architecture • REST API • Firebase • Stripe • SSLCommerz
+
+### 🚀 My Contribution
+
+- Developed both customer and vendor applications within the Zoey Travel ecosystem.
+- Built booking, payment, service management, and analytics modules.
+- Integrated REST APIs, Stripe, SSLCommerz, and Firebase services.
+- Implemented real-time notifications, and booking workflows.
+- Contributed to deployment, maintenance, and performance optimization.
 
 ---
 
