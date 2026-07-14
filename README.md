@@ -13,13 +13,17 @@ I specialize in **clean architecture**, **API integrations**, **Firebase ecosyst
 ### Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![OneSignal](https://img.shields.io/badge/OneSignal-EF3A5D?style=for-the-badge&logo=onesignal&logoColor=white)
+![FCM](https://img.shields.io/badge/Firebase_Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Key Technologies
 
