@@ -91,6 +91,7 @@ I specialize in **clean architecture**, **API integrations**, **Firebase ecosyst
 # 🚧 Current Projects
 
 ## 📍 Robi GeoConnect – Enterprise Field Workforce Management System
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.geoconnect.sf.robi&hl=en)
 
 Developed for **Robi Axiata Limited**, Robi GeoConnect is an enterprise-grade field workforce management application that streamlines employee attendance, field operations, and real-time workforce monitoring.
 
@@ -121,6 +122,7 @@ Developed for **Robi Axiata Limited**, Robi GeoConnect is an enterprise-grade fi
 ---
 
 ## 🏗️ Crown Cement – Digital Customer Engagement Platform
+[<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.crowncementprobashi.campaign.app&hl=en)
 
 A customer engagement platform built for **Crown Cement** that enables customers to explore company information, browse products, learn construction best practices, participate in campaigns, and connect with the brand through digital experiences.
 
